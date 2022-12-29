@@ -1,0 +1,2 @@
+# xos
+minimal linux distro

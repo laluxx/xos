@@ -1,0 +1,20 @@
+# Launch dmenu
+#alt + r
+#	dmenu_run -p 'Run:'
+# pkill sxhkd
+
+# Launch emacs client 
+alt + e
+	emacs
+
+# Launch dmenu
+alt + e
+	emacs
+
+# refresh sxhkdrc 
+alt + r
+  bash /home/l/.config/rofi/launchers/type-3/launcher.sh
+
+# refresh sxhkdrc 
+alt + s
+  bash /home/l/.config/rofi/launchers/type-3/launcher.sh

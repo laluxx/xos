@@ -1,0 +1,200 @@
+
+
+🇽 🇴 🇸   🇹 🇴 🇩 🇴
+
+Welcome to xos-todo,
+u can submit new ideas
+
+
+
+Xos integration name ( ) !  
+{
+  Functionality:
+  -function 1
+  -function 2
+  -function 3
+  
+  Themes:
+  -cherry
+  -dark
+  -theme 3
+}
+
+Important!  
+Todo 
+Done 
+Fix 襁
+▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ 
+
+xim separator plugin    ♥   
+{                            
+  Functionality:             
+  -shortcut to add           
+  a separator like this one   
+
+}
+
+
+Xos integrated chat (4) !  ♥
+{
+  Functionality:
+  -report bugs
+  -open tickets
+  -chat
+  
+  Themes:
+  -cherry
+  -dark
+}
+
+
+vim integrated tty-clock    ♥
+{
+  Functionality:
+  -display tty-clock in vim
+}
+
+
+AI che da un immagine come input dia come output un UI composta da html & css !  ♥
+
+VR school !  ♥ {
+
+}
+
+Change cursor when changing xos-theme  !  ♥
+
+Quando si avvia xim si ha soltanto una pagina blurrata con un immagine al centro in base a xos-theme  
+
+in floating mode le finestre spawnano in alto a sinista    襁
+da rendere --> al centro 
+
+fix kitty annoying sound   襁
+https://www.reddit.com/r/pop_os/comments/ptonqh/help_changing_default_terminal_beep_in_kitty/ 
+
+TODO (
+
+Discord audio streaming
+
+Unity development by default on vim and emacs
+
+supported gaming out of the box {
+  gaming-enable package
+  in the aur
+}
+
+
+
+
+1 - xos-tauri
+
+[
+- creare utente dall interfaccia
+-sistema di logout e reboot
+-cambiare impostazioni di sistema 
+-vedere diagnostica del pc come ram utilizzata, calore cpu
+- spazio libero nel sistema con un grafico a torta o bo
+- package manager custom della distro
+- funzionalita come tempo
+- to do list
+- cursore custom con animazioni css
+-fare in modo che si blurri con lo sfondo 
+-fare scegliere la lingua tastiera 
+-usare pyscritp per eseguire comani di bash
+-possbilita di aprire ticket direttamente dall app in electron 
+-creare degli script dove se tu cambi uno tra gli sfondi presettati cambino anche
+i config di tutte le app nel sistema 
+-si autostarta con xstart dove si puo fare il logout cambiare le impostazioni di sistema 
+
+]
+
+
+2 - xos-droid
+
+[
+sistema operativo arm based basato su arch per telefono
+
+2 moodalita principali {
+
+smartpone mode
+window-manager mode
+}
+aprire il terminale con swap a sinistra
+
+integrazione con tastiera wirless 
+
+-app per telefono con touchpad integrato apposta per la distro
+
+
+
+
+3 - xos-cursor
+
+[
+-cursore custom con animazioni system-wide (osu-lazer)
+
+]
+
+4 - xos-chat
+
+[
+-chat dedicata alla comunity e al miglioramento del OS
+-possibilita di segnalare bug o issues e mandare automaticamente i log
+
+]
+
+
+IMPROVE
+
+ROFI
+
+-fare dei temi per rofi custom
+- funzionalita per blurrare lo sfondo quando si apre rofi in alcuni temi 
+- rofi si apre con un config custom di picom in base a xos-theme  !  ♥
+
+DWM
+
+-al posto di avere la barra sopra fare in modo che al primo pixel dove tu esci da una finestra floating compaia una casella con la x 
+per chiudere la finestra in modo tale che anche i babbi possano capire come chiudere una finestra
+stile: segnalibro,redbox, ecc
+
+-fare che in floating mode se si sposta ad un lato una finestra si renda meta
+dello schermo con un animazione smooth
+
+
+LF 
+-pulsante per pushare dentro thunar che pusha su github la repo dove sei dentro 
+
+
+!!!
+quando si esegue il comando ls ci si puo automaticamente muovere con hjkl per esplorare cartelle
+quando si esce dalla modalita esplora ci si ritrova in quella directory
+keybinds per copiare incollare tagliare e funzionalita per git 
+
+
+quando si apre thunar o un altro file manager si blurra lo sfondo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+YouTube links:
+
+https://youtu.be/37H7bD-G7nE?list=PL5--8gKSku15uYCnmxWPO17Dq6hVabAB4&t=849 // how to create .Desktop apps

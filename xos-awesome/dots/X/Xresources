@@ -1,0 +1,49 @@
+! special
+*.foreground:   #fefefe
+*.background:   #00141d
+*.cursorColor:  #fefefe
+
+! black
+*.color0:       #00141d
+*.color8:       #16262e
+
+! red
+*.color1:       #e00233
+*.color9:       #f90239
+
+! green
+*.color2:       #72D266
+*.color10:      #7DF26F
+
+! yellow
+*.color3:       #fb9e3c
+*.color11:      #fdc400
+
+! blue
+*.color4:       #016EE3
+*.color12:      #017AFC
+
+! magenta
+*.color5:       #e00267
+*.color13:      #f90273
+
+! cyan
+*.color6:       #733881
+*.color14:      #803e8f
+
+! white
+*.color7:       #dfe5ec
+*.color15:      #ffffff
+
+
+! URxvt SETTINGS
+URxvt.termName: rxvt-unicode-256color
+URxvt.letterSpace: -1
+URxvt.scrollBar: false
+URxvt.internalBorder: 60
+URxvt.depth: 24
+URxvt.clipboard.autocopy: true
+URxvt.keysym.Control-Shift-V: perl:pasta:paste
+URxvt.keysym.Control-l: command:\033c
+URxvt.perl-ext-common: selection-to-clipboard,pasta
+URxvt.font: xft:OperatorMonoLig:size=12:weight=bold,xft:MaterialDesignIconsDesktop:size=12
